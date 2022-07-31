@@ -10,10 +10,11 @@
 - 🌱  Some technologies I enjoy working with include Python, Javascript, C#, Angular,... 
 
 - 🌟 I have many previous experiences:
-     - Public relations representative in a company in the medical field.
      - Founded a startup company for scrap trading.
      - I got professional training In the field of programming and entrepreneurship. 
        and participated in the programs of business incubators and business accelerators.
+     - Public relations representative in a company in the medical field.
+ 
 
 - 🌟 so I have passion with entrepreneurship and business development.
 
