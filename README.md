@@ -5,7 +5,7 @@
 
 <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-- I'm a 👨‍💻 ✨ jr. Full-stack Developer ✨ who is passionate about creating technology and devlop myself evertime, and to elevate people and help new developers to       find the right path. Some technologies
+- I'm a 👨‍💻 ✨ jr. Full-stack Developer ✨ who is passionate about creating technology and devlop myself all the time, and to elevate people and help new developers to       find the right path. Some technologies
 
 - 🌱  Some technologies I enjoy working with include Python, Javascript, C#, Angular 
 
