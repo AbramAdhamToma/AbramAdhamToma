@@ -18,7 +18,7 @@
 
 - 🌟 so I have passion with entrepreneurship and business development.
 
-- ❤️‍🔥 I love working with startup company with passionest teams. 🔥❤️
+- ❤️‍🔥 I love working with people from different cultures and startup company with passionest teams. 🔥❤️
 
 - 💪🏻 I am always looking for new challenges to take on and I love to share my experience and knowledge with others.
 
