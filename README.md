@@ -5,7 +5,7 @@
 
 <img src="https://github.com/AbramAdhamToma/AbramAdhamToma/blob/main/Developer.gif" align="right" width="33%"/>
 
-- I'm a 👨‍💻 ✨ jr. Full-stack Developer ✨ who is passionate about creating technology and devlop myself all the time, and to elevate people and help new developers to       find the right path.
+- I'm a 👨‍💻 ✨ jr. Full-stack Developer ✨ who is passionate about creating technology, developing myself all the time, elevating people, and helping new developers to find the right path.
 
 - 🌱  Some technologies I enjoy working with include Python, Javascript, C#, Angular,... 
 
